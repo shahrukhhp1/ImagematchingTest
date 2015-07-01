@@ -1,0 +1,8 @@
+c:\users\hamza\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\hamza\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\hamza\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\hamza\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\hamza\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\OpenSURFcs.dll
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\MathNet.Iridium.dll
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\OpenSURFcs.pdb
