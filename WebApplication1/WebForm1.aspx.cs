@@ -18,6 +18,7 @@ namespace WebApplication1
         {
             Image1.ImageUrl = "no_image_available.jpeg";
             Image2.ImageUrl = "no_image_available.jpeg";
+
         }
 
         //protected void Button1_Click(object sender, EventArgs e)
